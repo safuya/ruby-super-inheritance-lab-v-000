@@ -9,4 +9,6 @@ class ChattyStudent < Student
 
   def raise_hand
     10.times { |_| super }
+  end
+  
 end
